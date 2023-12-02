@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/MySite/static/css/main.22ef00a5.css",
-    "main.js": "/MySite/static/js/main.0fc4c622.js",
+    "main.css": "/MySite/static/css/main.c9fd6951.css",
+    "main.js": "/MySite/static/js/main.e52a438e.js",
     "static/js/787.1ed0c42c.chunk.js": "/MySite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DiTe.png": "/MySite/static/media/DiTe.0b14d609dafc645dae0d.png",
+    "static/media/teaapl.png": "/MySite/static/media/teaapl.4ebb60efadddac6d26a0.png",
+    "static/media/inter-tech.png": "/MySite/static/media/inter-tech.25452eb4975e6b171377.png",
     "static/media/kastoria.png": "/MySite/static/media/kastoria.225c57bb879d413ae44f.png",
+    "static/media/georgethecoderdotcom.png": "/MySite/static/media/georgethecoderdotcom.24ebaf50d1764d795b56.png",
     "static/media/george.png": "/MySite/static/media/george.8c3a9abe9ce1b44ee7c6.png",
     "static/media/portfolio_01.jpg": "/MySite/static/media/portfolio_01.3820ebcb2e54371c8b81.jpg",
     "static/media/Tailwind_CSS.png": "/MySite/static/media/Tailwind_CSS.d5abcf62e57cbbee357e.png",
@@ -11,12 +15,12 @@
     "static/media/MySQL.png": "/MySite/static/media/MySQL.0fbf71822f142a0769d9.png",
     "static/media/georgethecoder_p.png": "/MySite/static/media/georgethecoder_p.96deec0da5853a55d9d4.png",
     "index.html": "/MySite/index.html",
-    "main.22ef00a5.css.map": "/MySite/static/css/main.22ef00a5.css.map",
-    "main.0fc4c622.js.map": "/MySite/static/js/main.0fc4c622.js.map",
+    "main.c9fd6951.css.map": "/MySite/static/css/main.c9fd6951.css.map",
+    "main.e52a438e.js.map": "/MySite/static/js/main.e52a438e.js.map",
     "787.1ed0c42c.chunk.js.map": "/MySite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22ef00a5.css",
-    "static/js/main.0fc4c622.js"
+    "static/css/main.c9fd6951.css",
+    "static/js/main.e52a438e.js"
   ]
 }
