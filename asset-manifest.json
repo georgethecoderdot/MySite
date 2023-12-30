@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MySite/static/css/main.5c2ccd42.css",
-    "main.js": "/MySite/static/js/main.d601504e.js",
-    "static/js/787.1ed0c42c.chunk.js": "/MySite/static/js/787.1ed0c42c.chunk.js",
-    "static/media/DiTe.png": "/MySite/static/media/DiTe.0b14d609dafc645dae0d.png",
-    "static/media/teaapl.png": "/MySite/static/media/teaapl.4ebb60efadddac6d26a0.png",
-    "static/media/inter-tech.png": "/MySite/static/media/inter-tech.25452eb4975e6b171377.png",
-    "static/media/kastoria.png": "/MySite/static/media/kastoria.225c57bb879d413ae44f.png",
-    "static/media/georgethecoderdotcom.png": "/MySite/static/media/georgethecoderdotcom.24ebaf50d1764d795b56.png",
-    "static/media/george.png": "/MySite/static/media/george.8c3a9abe9ce1b44ee7c6.png",
-    "static/media/portfolio_01.jpg": "/MySite/static/media/portfolio_01.3820ebcb2e54371c8b81.jpg",
-    "static/media/Tailwind_CSS.png": "/MySite/static/media/Tailwind_CSS.d5abcf62e57cbbee357e.png",
-    "static/media/java_orig_logo.png": "/MySite/static/media/java_orig_logo.898b73431f16eeadf726.png",
-    "static/media/MySQL.png": "/MySite/static/media/MySQL.0fbf71822f142a0769d9.png",
-    "static/media/georgethecoder_p.png": "/MySite/static/media/georgethecoder_p.96deec0da5853a55d9d4.png",
-    "index.html": "/MySite/index.html",
-    "main.5c2ccd42.css.map": "/MySite/static/css/main.5c2ccd42.css.map",
-    "main.d601504e.js.map": "/MySite/static/js/main.d601504e.js.map",
-    "787.1ed0c42c.chunk.js.map": "/MySite/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.5c2ccd42.css",
+    "main.js": "/static/js/main.a5da171a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DiTe.png": "/static/media/DiTe.0b14d609dafc645dae0d.png",
+    "static/media/teaapl.png": "/static/media/teaapl.4ebb60efadddac6d26a0.png",
+    "static/media/inter-tech.png": "/static/media/inter-tech.25452eb4975e6b171377.png",
+    "static/media/kastoria.png": "/static/media/kastoria.225c57bb879d413ae44f.png",
+    "static/media/georgethecoderdotcom.png": "/static/media/georgethecoderdotcom.24ebaf50d1764d795b56.png",
+    "static/media/george.png": "/static/media/george.8c3a9abe9ce1b44ee7c6.png",
+    "static/media/portfolio_01.jpg": "/static/media/portfolio_01.3820ebcb2e54371c8b81.jpg",
+    "static/media/Tailwind_CSS.png": "/static/media/Tailwind_CSS.d5abcf62e57cbbee357e.png",
+    "static/media/java_orig_logo.png": "/static/media/java_orig_logo.898b73431f16eeadf726.png",
+    "static/media/MySQL.png": "/static/media/MySQL.0fbf71822f142a0769d9.png",
+    "static/media/georgethecoder_p.png": "/static/media/georgethecoder_p.96deec0da5853a55d9d4.png",
+    "index.html": "/index.html",
+    "main.5c2ccd42.css.map": "/static/css/main.5c2ccd42.css.map",
+    "main.a5da171a.js.map": "/static/js/main.a5da171a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c2ccd42.css",
-    "static/js/main.d601504e.js"
+    "static/js/main.a5da171a.js"
   ]
 }
