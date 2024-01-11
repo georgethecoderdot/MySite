@@ -1,1 +1,1 @@
-https://diakos.georgethecoder.com/#/#Home
+https://diakos.georgethecoder.com/
